@@ -1,3 +1,8 @@
+---
+tags:
+    - meeting
+---
+
 # Facundo Sanabria
 
 - Servicios que se pidieron sobre la marcha. Centralizados en la entrega. Hablar con: Paul, Shibashis (Annia).
