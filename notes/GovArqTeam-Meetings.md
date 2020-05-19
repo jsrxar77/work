@@ -18,10 +18,12 @@ tags:
 - NCIS sigue en análisis, se va a tener que ir a hablar con el usuario.
 
 # Team Meeting: 5/7/2020
+@ximena
 
 - Bien con respecto a la otra semana. Esta preguntando fechas, y piden que sea lo antes posible.
 
 # Weeky Status: 5/14/2020
+@ximena
 
 - Todo avanza bien, se esta presentando algo a Saravanan @juan
 - Trabajo XME entregando en tiempo y forma, a futuro se puede pasar a xflow. @mariano
@@ -29,4 +31,9 @@ tags:
 - NCIS reuniones con Shibashi. Rían paso algunas de diseño de UI a Resumí. En 2 semanas potencialmente se reactiva. Pero ya lo toma Shibashi. @ximena
 
 # Weeky Status: 5/19/2020
+@ximena
 
+- Facundo y Juan están trabajando con Madhu. Las fechas son de XME.
+- Juan esta haciendo algunas tareas que tenia Madhu.  
+- Ximena ayudando a Gary con xflow.
+- Reunión con Shibashis con todo su equipo y se hablo de NCIS. Algunos de ProNumber pasan a NCIS y otros a PnD. Shibashis tiene en cuenta a Nicolás Fernández y Alejandro Nieto.
