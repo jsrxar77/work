@@ -37,3 +37,12 @@ tags:
 - Juan esta haciendo algunas tareas que tenia Madhu.  
 - Ximena ayudando a Gary con xflow.
 - Reunión con Shibashis con todo su equipo y se hablo de NCIS. Algunos de ProNumber pasan a NCIS y otros a PnD. Shibashis tiene en cuenta a Nicolás Fernández y Alejandro Nieto.
+
+# Weeky Sync: 5/21/2020
+@ximena @facundo @juan
+
+- Trabajando en otm, viendo con juan multipart. @facundo
+- Avance de multipart. @juan
+- En modulo XMEm buscado definiciones. @mariano
+- Trabajando con Gary en XFlow. No hay fecha de comienzo de NCIS. Se estima el 24/6.  @ximena
+- Hablar con Paul o Joseph para mejorar configuracion e integración de herramientas. @juan @ximena
