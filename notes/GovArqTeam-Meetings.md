@@ -46,3 +46,4 @@ tags:
 - En modulo XMEm buscado definiciones. @mariano
 - Trabajando con Gary en XFlow. No hay fecha de comienzo de NCIS. Se estima el 24/6.  @ximena
 - Hablar con Paul o Joseph para mejorar configuracion e integración de herramientas. @juan @ximena
+- Introducción de roles en los equipo para entender quien hace cada cosa @juan @ximena @annia

@@ -23,3 +23,11 @@ tags:
 - Es el ultimo sprint.Se crearon tareas para resetear en hexadata.
 - Van a retomar NCIS, no estaban los integrantes antiguos de NCIS.
 - Siguen sin dar importancia a hacer unit testing.
+
+
+# Weeky Status: 5/26/2020: @juan
+
+- Trabajando en proyecto oracle password reset.
+- Esta bloqueado, porque no tiene la info para comenzar. Va a hacer tareas de ProNumbers para terminar.
+- Ariel le gustaria ser full stack, tambien a juan.
+- 
