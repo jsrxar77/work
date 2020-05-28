@@ -45,5 +45,13 @@ tags:
 - Avance de multipart. @juan
 - En modulo XMEm buscado definiciones. @mariano
 - Trabajando con Gary en XFlow. No hay fecha de comienzo de NCIS. Se estima el 24/6.  @ximena
-- Hablar con Paul o Joseph para mejorar configuracion e integración de herramientas. @juan @ximena
+- Hablar con Paul o Joseph para mejorar configuración e integración de herramientas. @juan @ximena
 - Introducción de roles en los equipo para entender quien hace cada cosa @juan @ximena @annia
+
+# Weeky Sync: 5/28/2020
+@ximena @facundo @juan
+
+- Hubo una reunión buena donde se propuso el análisis de multipart y propuesta de Maven (Saravan, Paul, Gary, joseph, Paulemai, Paul Christpher, Mitch). Se definieron puntos y reuniones para implementar soluciones. @juan
+- Están a la espera de nuevos trabajos. @juan
+- Madhu sumo algunas tareas para Facundo. @facundo
+- Se esta buscando la forma de poner limites a todo lo que se pide en cuanto a tiempos. @facundo
