@@ -55,3 +55,7 @@ tags:
 - Están a la espera de nuevos trabajos. @juan
 - Madhu sumo algunas tareas para Facundo. @facundo
 - Se esta buscando la forma de poner limites a todo lo que se pide en cuanto a tiempos. @facundo
+- Saravanan no hablo de roadmap.
+- Semana que viene va a pedir los chicos a Satish, aproximadamente 20/6.
+- Persona de angular, posiblemente no sea Braulio. Están evaluando si van a poner a alguien nuevo.
+- Hay nuevos diseños de NCIS de Reshmi. @ximena
