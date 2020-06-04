@@ -29,5 +29,14 @@ tags:
 
 - Trabajando en proyecto oracle password reset.
 - Esta bloqueado, porque no tiene la info para comenzar. Va a hacer tareas de ProNumbers para terminar.
-- Ariel le gustaria ser full stack, tambien a juan.
-- 
+- Ariel le gustaria ser full stack, también a juan.
+
+# Weeky Status: 6/2/2020: @juan
+
+- Juan vendió 3 tareas mas. 
+- GASTON: Deberian tener todo un nuevo paquete para octubre de ProNumbers.
+- Testing de backend, agregado, nuevos items.
+- Schedule: Amarillo. Hay tareas asignadas a Dan y no avanzan.
+- Potencial Reunion con Lan, para hablar sobre posibles retrasos. 
+- Testing unitario (75% aprox. de cobertura actual, con ideas llegar al 80)
+- Los sprint de 15 tickets quedan 2 de carry over. Por lo general lo que se agrega termina siendo carry over. Posiblemente sea idea de lan de poder agregar tickets a demanda. 

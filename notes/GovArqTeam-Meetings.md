@@ -59,3 +59,15 @@ tags:
 - Semana que viene va a pedir los chicos a Satish, aproximadamente 20/6.
 - Persona de angular, posiblemente no sea Braulio. Están evaluando si van a poner a alguien nuevo.
 - Hay nuevos diseños de NCIS de Reshmi. @ximena
+
+# Weeky Status: 6/2/2020
+@ximena
+
+- No hay procesos. A lo sumo en XME.
+
+# Weeky Sync: 6/4/2020
+@ximena @facundo @juan @mariano
+
+- @mariano: trabajando con juan en el proyecto otm. Demo de los cambios propuestos de Maven y la estructura de los proyectos de Maven. Problemas con Liberty. La demo fue bien recibida. Lan los contacto para darle trabajo.
+- @juan, @facundo los contacto Lan, están sin asignaciones.
+- @juan se implemento multipart.
