@@ -24,7 +24,6 @@ tags:
 - Van a retomar NCIS, no estaban los integrantes antiguos de NCIS.
 - Siguen sin dar importancia a hacer unit testing.
 
-
 # Weeky Status: 5/26/2020: @juan
 
 - Trabajando en proyecto oracle password reset.
@@ -34,9 +33,20 @@ tags:
 # Weeky Status: 6/2/2020: @juan
 
 - Juan vendió 3 tareas mas. 
-- GASTON: Deberian tener todo un nuevo paquete para octubre de ProNumbers.
+- Gastón: Deberían tener todo un nuevo paquete para octubre de ProNumbers.
 - Testing de backend, agregado, nuevos items.
 - Schedule: Amarillo. Hay tareas asignadas a Dan y no avanzan.
-- Potencial Reunion con Lan, para hablar sobre posibles retrasos. 
+- Potencial Reunión con Lan, para hablar sobre posibles retrasos. 
 - Testing unitario (75% aprox. de cobertura actual, con ideas llegar al 80)
 - Los sprint de 15 tickets quedan 2 de carry over. Por lo general lo que se agrega termina siendo carry over. Posiblemente sea idea de lan de poder agregar tickets a demanda. 
+
+# Weeky Status: 6/9/2020: @juan
+
+- Shibashis quiere tener 1.1 con cada uno de los miembros del equipo. ( se aviso que Raúl no estaba )
+- Shibashis quiere armar 9 equipos para NCIS. Mauricio, José <- Ya se movieron. Ximena potencialmente es la TL. Juan y Juan quedan en ProNumbers. Terri va a ser la PM de NCIS. Ariel va a pasar a NCIS en otro momento.
+- Frontend queda 2 tickets para terminar, van a tomar tickets de Raúl y 2 bugs.
+- De Sprint 9, hay tareas de Dan que no las termina.
+- Reunión manager de seguridad de XPO.
+- Cobertura de 80% en frontend y backend.
+- Todavía no se llego a producción.
+- La calidad se va a medir con los issues blocker en producción.

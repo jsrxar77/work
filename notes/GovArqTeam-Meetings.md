@@ -71,3 +71,4 @@ tags:
 - @mariano: trabajando con juan en el proyecto otm. Demo de los cambios propuestos de Maven y la estructura de los proyectos de Maven. Problemas con Liberty. La demo fue bien recibida. Lan los contacto para darle trabajo.
 - @juan, @facundo los contacto Lan, están sin asignaciones.
 - @juan se implemento multipart.
+- @mariano, model executor framework, trabajo ahi en el segundo sprint, seguramente habra sprint 3. Ocupado.
