@@ -83,4 +83,10 @@ tags:
 - En teoría esta semana arrancaria la UI. 6/9, pero se paso a la semana del 6/15.
 - Potencial knowledge transfer de Braulio.
 - Juan y Facu van a hacer algunas cosas de beacon para Gary.
-- 
+
+
+# Weeky Sync: 6/11/2020
+@ximena @facundo @juan @mariano
+
+- @facundo: Paul y mei decidió poner las horas donde corresponde. Se cambio de equipo oficialmente a inspection/beacon trabajando con Lan. Trabajando con Gary. Metiendo xflow en el nuevo proyecto.
+- @juan: mismo equipo. Beacon surge de la necesidad de enviar mensajes. Cuando aparece un cargamento, le mandan información a un inspector beacon maneja información de mensajería. Es un prototipo.
