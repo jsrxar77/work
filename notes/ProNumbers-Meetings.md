@@ -50,3 +50,15 @@ tags:
 - Cobertura de 80% en frontend y backend.
 - Todavía no se llego a producción.
 - La calidad se va a medir con los issues blocker en producción.
+
+# Weeky Sync: 6/11/2020: 
+@todos
+
+- @ariel: terminado tareas, tomando tareas de raul, seguramente sera un mix con el nuevo proyecto.
+- @javier: explico lo que es NCIS.
+- @juan: OWA, seguridad. Cerrando los tickets. Completando los tickets para producción.
+- @mauricio: bug asignado y nice to have
+- Pedir a Ryan por la presentacion
+- @mauricio y @jose de llenos en NCIS y @raul de backend. Facturacion!
+- @jose: cerrando tickets
+- @juanh: cerrando tickets

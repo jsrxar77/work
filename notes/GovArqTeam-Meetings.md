@@ -71,4 +71,16 @@ tags:
 - @mariano: trabajando con juan en el proyecto otm. Demo de los cambios propuestos de Maven y la estructura de los proyectos de Maven. Problemas con Liberty. La demo fue bien recibida. Lan los contacto para darle trabajo.
 - @juan, @facundo los contacto Lan, están sin asignaciones.
 - @juan se implemento multipart.
-- @mariano, model executor framework, trabajo ahi en el segundo sprint, seguramente habra sprint 3. Ocupado.
+- @mariano, model executor framework, trabajo ahi en el segundo sprint, seguramente habrá sprint 3. Ocupado.
+
+# Weeky Status: 6/9/2020
+@ximena
+
+- NCIS hubo reunión el viernes, el equipo de ProNumbers iba a pasar para NCIS, algunos solo pasaban medio tiempo al principio. Al parecer Nicolas y Alejandro volverían. Potencialmente habrá 9 personas: mauri jose 100, juan 50, ale y nico 100, raul 100, juan r 50, ariel no lo nombraron. Braulio por ahora seguirá en Cost Allocation. 
+- Annia reunión con Rohit.
+- Ximena liderando NCIS.
+- Ryan y Terri siguen.
+- En teoría esta semana arrancaria la UI. 6/9, pero se paso a la semana del 6/15.
+- Potencial knowledge transfer de Braulio.
+- Juan y Facu van a hacer algunas cosas de beacon para Gary.
+- 
