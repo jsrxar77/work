@@ -62,3 +62,16 @@ tags:
 - @mauricio y @jose de llenos en NCIS y @raul de backend. Facturacion!
 - @jose: cerrando tickets
 - @juanh: cerrando tickets
+
+# Weeky Status: 6/16/2020: @juan
+
+- Mauricio, Jose y Raul y pasan.
+- Xime lidera del tipo arquitecto
+- Hablar de las Nicolas Fernadez.
+  
+# Weeky Sync: 6/16/2020: 
+@todos
+
+- Problemas de conexión.
+- Se explico lo que es NCIS y se dijo a Ariel y Juan Riboldi que pueden ver videos.
+- No les gusto como esta definido la API de NCIS estan en esa disyuntivda.

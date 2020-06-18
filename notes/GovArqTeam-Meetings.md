@@ -90,3 +90,18 @@ tags:
 
 - @facundo: Paul y mei decidió poner las horas donde corresponde. Se cambio de equipo oficialmente a inspection/beacon trabajando con Lan. Trabajando con Gary. Metiendo xflow en el nuevo proyecto.
 - @juan: mismo equipo. Beacon surge de la necesidad de enviar mensajes. Cuando aparece un cargamento, le mandan información a un inspector beacon maneja información de mensajería. Es un prototipo.
+
+
+# Weeky Status: 6/16/2020
+@ximena
+
+- Pedir dashboard NCIS.
+- No le convenció, la idea a Raúl el estar 50 y 50.
+- La semana del 22 se suman Nico y Ale.
+- No definir nigun lead,
+- Xime hizo que todos vean los videos de NCIS.
+- La idea es que realice todo lo necesario para API, etc el Lead.
+- JuanV y Facu estan eb beacon (Gary). Se comenzo el desarrollo. Lan es la PM.
+- NCIS fase de refactor de lo que ya hay.
+- Por atras se va a utilizar symphony.
+- Potencialmente se va a sacar todo el proceso de proxy.

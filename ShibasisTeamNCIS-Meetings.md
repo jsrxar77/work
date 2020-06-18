@@ -8,7 +8,8 @@ tags: meetings
 
 - Mauricio Salazar
 - José Torres
-- Raúl Peña
+- Raúl Peña (problemas en comunicación)
 - Alejandro Nieto
-- Nicolas Fernandez 
-- Ximena Maria Ricon
+- Nicolas Fernández
+- Ximena Maria Rincon
+- Juan Cruz 50%
