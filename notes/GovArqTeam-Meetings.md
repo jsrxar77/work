@@ -105,3 +105,9 @@ tags:
 - NCIS fase de refactor de lo que ya hay.
 - Por atras se va a utilizar symphony.
 - Potencialmente se va a sacar todo el proceso de proxy.
+
+
+# Weeky Sync: 6/18/2020
+@ximena @facundo @juan @mariano
+
+- NCIS sigue en lo mismo. 
