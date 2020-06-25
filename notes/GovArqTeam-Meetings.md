@@ -113,3 +113,22 @@ tags:
 - NCIS sigue en lo mismo. 
 - Alejandro y Nico se suman la semana que viene.
 - Testing!!!!
+
+# Weeky Sync: 6/18/2020
+@ximena @facundo @juan @mariano
+
+- NCIS sigue en lo mismo. 
+- Alejandro y Nico se suman la semana que viene.
+- Testing!!!!
+
+# Weeky Sync: 6/25/2020
+@facundo @juan @ximena
+
+@facundo
+- La semana pasada estuvieron con Gary definiendo temas para Beacon.
+- Ya están metidos en el contexto de Beacon, conocen los frameworks que utiliza. 
+- Definieron temas con Saravan, tienen tickets para realizar y no hay ninguna traba hasta ahora.
+
+@juan
+- Se pusieron en contacto con un equipo de XPO (Inspection) que va a utilizar Beacon.
+- Del equipo de Inspection, se juntaron con Agusto y Ezequiel Mansilla que son de OA y estuvieron intercambiando ideas.
