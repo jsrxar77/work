@@ -75,3 +75,45 @@ tags:
 - Problemas de conexión.
 - Se explico lo que es NCIS y se dijo a Ariel y Juan Riboldi que pueden ver videos.
 - No les gusto como esta definido la API de NCIS estan en esa disyuntivda.
+
+
+# Weeky Status: 6/16/2020: @juan
+
+- se definieron mas tickets, los empezo a realizar ariel.
+- se puso un deadline a fin de mes.
+- Juan R, esta ayudando a Ariel.
+
+
+# Weeky Sync: 6/25/2020: 
+@todos
+
+@juanc:
+  - Termino con el frontend de pro-engineering
+  - Password manager ya esta completo y mañana pasa a producción.
+  - Va a preguntar a Lan si tiene sentido su pasaje a NCIS ya que todavía   están en proceso de definiciones.
+
+@xime:
+  - A la espera de definiciones de NCIS. Shibashis y Saravan tienen que definir la estructura final las APIs. Vasant tiene que dar respuestas de los cambios que hizo y la migración de datos para ver si se sigue usando DB2 o no. En curso migración a arsenal-ui.
+  - Reunión con Shibashis entre hoy y mañana. Preguntará por el destino en NCIS del resto de los chicos de ProNumbers.
+
+@jose:
+  - Hizo algunos cambios pedidos y mockeo el backend para mostrar sus tickets. Luego lo cambiará cuando se defina la API.
+
+@raul:
+  - Leyendo y viendo videos sobre NCIS. Sin asignación puntual.
+  - Revisando código fuente.
+
+@ariel:
+  - Trabajo con @juan y dejo todo listo en DEV. Hoy se hacen algunas pruebas y luego se pasa a STAGING una vez configurado.
+
+@juan:
+  - Ayudo a @ariel a estabilizar todo en DEV. Solo hay un bug que esta asignado a Dan.
+  - Esperoando que STAGING este configurado para hacer el pasaje.
+
+@mauri:
+  - Del lado de UI estan avanzando en NCIS con los cambios propuestos por Reshmi.
+  - Dependencia de definiciones de backend.
+
+@general:
+  - @ariel y @juan potencialmente pueden pasar a un nuevo proyecto llamando Handheld (backend).
+  
