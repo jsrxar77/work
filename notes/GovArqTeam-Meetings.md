@@ -132,3 +132,23 @@ tags:
 @juan
 - Se pusieron en contacto con un equipo de XPO (Inspection) que va a utilizar Beacon.
 - Del equipo de Inspection, se juntaron con Agusto y Ezequiel Mansilla que son de OA y estuvieron intercambiando ideas.
+
+# Weeky Sync: 7/2/2020
+@facundo @ximena @mariano
+
+@facundo
+- Siguen trabajando con Juan y Gary terminando la definición de Beacon. Se mostraron avances a Saravanan y Shisbashis y quedaron convencidos. Se entregaron contratos. Se implemento el parte del backend.
+- Se realizarán cambios en xlfow.
+- Los PR se van a mandar a Claudia en lugar de Gary.
+- Comenzaron a participar en standups de otro proyecto para Beacon llamado Radar.
+
+@juan
+- Gary destrabó varias items el dia de hoy.
+
+@mariano
+- Trabjando en XME. Se corrió la entrega al 10/7.
+- Trabjanado tambien en symphony rules, cambios en  invoicing.
+
+@xime
+- Sin avances en temas Governance.
+- Trabjando en asignaciones de NCIS.

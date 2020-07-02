@@ -91,24 +91,45 @@ tags:
   - Termino con el frontend de pro-engineering
   - Password manager ya esta completo y mañana pasa a producción.
   - Va a preguntar a Lan si tiene sentido su pasaje a NCIS ya que todavía   están en proceso de definiciones.
+Al parecer juan va a otro proyecto.
 
 @xime:
   - A la espera de definiciones de NCIS. Shibashis y Saravan tienen que definir la estructura final las APIs. Vasant tiene que dar respuestas de los cambios que hizo y la migración de datos para ver si se sigue usando DB2 o no. En curso migración a arsenal-ui.
   - Reunión con Shibashis entre hoy y mañana. Preguntará por el destino en NCIS del resto de los chicos de ProNumbers.
 
+Definiciones con ryan de NCIS.
+Viendo cambios base de datos con Dan.
+Creando APIs en Arsenal, acomodando con Dan entiedades.
+Terri reunion con shibashis para ver el destino de Alejandro.
+
 @jose:
   - Hizo algunos cambios pedidos y mockeo el backend para mostrar sus tickets. Luego lo cambiará cuando se defina la API.
+
+NCIS Trabajando con los pedidos de ryan, buen feedback.
 
 @raul:
   - Leyendo y viendo videos sobre NCIS. Sin asignación puntual.
   - Revisando código fuente.
+NCIS trabajando en revision de codigo y una tarea que asigno ryan que termino. 
+
 
 @ariel:
   - Trabajo con @juan y dejo todo listo en DEV. Hoy se hacen algunas pruebas y luego se pasa a STAGING una vez configurado.
 
+Esta semana utilizo tiempo para levantar NCIS. Debuggin.
+Fix ProNumbers. Para llevar a staging.
+Carga de horas en NCIS.
+
+
 @juan:
   - Ayudo a @ariel a estabilizar todo en DEV. Solo hay un bug que esta asignado a Dan.
   - Esperoando que STAGING este configurado para hacer el pasaje.
+
+Salieron con password manager a produccion y cambiaron algunas cosas, por temas de seguridad. Hoy sale la segunda version.
+ProNumbers algunos fix, quedo solo Ariel. Salida a produccion esta frenado por errores que lo pasaron a Ariel.
+Lyndo NCIS
+PRoyecto de Handheld
+Definicion de prioridades.
 
 @mauri:
   - Del lado de UI estan avanzando en NCIS con los cambios propuestos por Reshmi.
@@ -116,4 +137,42 @@ tags:
 
 @general:
   - @ariel y @juan potencialmente pueden pasar a un nuevo proyecto llamando Handheld (backend).
-  
+Handheld proyecto de 4 meses.
+
+
+# Weeky Sync: 7/2/2020: 
+@xime, @jose, @raul, @ariel, @juan
+
+@juanc:
+En un principio todo apunta a que Juan C no va a ir a NCIS.
+
+@xime:
+- Se hicieron definiciones con Ryan sobre NCIS.
+- Se revisaron cambios base de datos con Dan.
+- Se crearon APIs en Arsenal, estuvieron acomodando entidades con Dan.
+- Terri tiene hoy una reunión con Shibashis para ver el destino de Alejandro Nieto.
+
+@jose:
+- Trabajando en NCIS en pedidos y tickets de Ryan.
+- Recibió buen feedback de su trabajo en NCIS.
+
+@raul:
+- Trabajando en revision de codigo de NCIS
+- Finalizo un ticket asignado por Ryan. 
+
+
+@ariel:
+- Esta semana utilizo tiempo para levantar NCIS.
+- Fix en ProNumbers de tickets de Dan. Para llevar a staging.
+
+@juan:
+- Salieron con Password Manager a produccion y luego se realizaron cambios por temas de seguridad. Hoy sale la segunda version.
+- ProNumbers se realizaron algunos fix, quedo solo Ariel. Salida a producción esta frenado por issues de Dan que lo pasaron a Ariel.
+- Leyendo sobre NCIS.
+- Se definieron las prioridades de todos los proyectos en que participa (ProNumbers, Password Manager, Handheld, NCIS).
+
+@mauri:
+- Recibió buen feedback de su trabajo en NCIS.
+
+@general:
+- Handheld proyecto de aproximadamente 4 meses. Por ahora Juan y Raul participan en el.
