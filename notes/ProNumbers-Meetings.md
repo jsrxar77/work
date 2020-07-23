@@ -176,3 +176,18 @@ En un principio todo apunta a que Juan C no va a ir a NCIS.
 
 @general:
 - Handheld proyecto de aproximadamente 4 meses. Por ahora Juan y Raul participan en el.
+
+
+# Weeky Sync: 7/2/2020: 
+@xime, @jose, @raul, @ariel, @juan
+
+@raul
+- Documentación a nivel macro.
+- Mapping no definidos. Alejandro explica.
+- Falta de definiciones.
+- Se propuso el standup alice como lugar para bloqueantes.
+
+@ale
+- quien define contratos.
+- issues de la semana.
+  
