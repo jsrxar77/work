@@ -152,3 +152,20 @@ tags:
 @xime
 - Sin avances en temas Governance.
 - Trabjando en asignaciones de NCIS.
+
+
+# Weeky Sync: 7/24/2020
+@facundo @juan @mariano
+
+@facundo: siguen con beacon integrando inspection. Ya se esta integrando con radar. Semana que viene se pone en producción (S5). Gary se va de Beacon y Radar y viene Radha.
+
+@juan: lo mismo que @facundo. Semana que viene van a hacer el handover. Se sigue con beacon
+
+@mariano: XME se termino el release 2 ahora hay una nueva libreria "batch framework". Se utilizara en pricing y cost allocation. Se pasa de postgress a oracle.
+
+# Weeky Sync: 7/24/2020
+@facundo @juan
+
+@facundo: Sin muchas novedades, staging trabajando con Juan Cruz.
+
+@juan: Mañana demo para Shibashis. Gary ya debería pasar al otro proyecto. Radha no aparece en los proyectos. Se rompio parte del backend y Liana publico las cosas y comenzaron a faltar cosas, hasta que Gary volvió y lo arreglo.
