@@ -166,6 +166,6 @@ tags:
 # Weeky Sync: 7/24/2020
 @facundo @juan
 
-@facundo: Sin muchas novedades, staging trabajando con Juan Cruz.
+@facundo: Sin muchas novedades, staging trabajando con Juan Cruz. Se juntaron con joseph moreno para ver si estaban creando bien lo branch, etc etc y se estan adecuando a la nueva modalidad.
 
-@juan: Mañana demo para Shibashis. Gary ya debería pasar al otro proyecto. Radha no aparece en los proyectos. Se rompio parte del backend y Liana publico las cosas y comenzaron a faltar cosas, hasta que Gary volvió y lo arreglo.
+@juan: Mañana demo para Shibashis. Gary ya debería pasar al otro proyecto. Radha no aparece en los proyectos. Se rompio parte del backend y Liana publico las cosas y comenzaron a faltar cosas, hasta que Gary volvió y lo arreglo. Saravan pidio lo de maven y le pidio a joseph que sigan con los temas maven.
