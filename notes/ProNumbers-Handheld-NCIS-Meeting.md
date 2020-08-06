@@ -1,9 +1,9 @@
-# Weeky Sync: 8/6/2020:
+# Weekly Sync: 8/6/2020
 
 @xime, @jose, @raul, @ariel, @juan, @mauri, @juanc
 
 - @ale
-  - Se avanzo, pero todavía hay issues que permiten que no se avance correctamente. Vasant PTO. Todavía hay cosas del diseño que no estan del todo definido para que vaya todo para adelante.
+  - Se avanzo, pero todavía hay issues que permiten que no se avance correctamente. Vasant PTO. Todavía hay cosas del diseño que no están del todo definido para que vaya todo para adelante.
   - Trabajando solo el.
 
 - @mauri
