@@ -181,13 +181,13 @@ En un principio todo apunta a que Juan C no va a ir a NCIS.
 # Weeky Sync: 7/2/2020: 
 @xime, @jose, @raul, @ariel, @juan
 
-@raul
-- Documentación a nivel macro.
-- Mapping no definidos. Alejandro explica.
-- Falta de definiciones.
-- Se propuso el standup alice como lugar para bloqueantes.
+- @raul
+  - Documentación a nivel macro.
+  - Mapping no definidos. Alejandro explica.
+  - Falta de definiciones.
+  - Se propuso el standup alice como lugar para bloqueantes.
 
 @ale
-- quien define contratos.
-- issues de la semana.
+  - quien define contratos.
+  - issues de la semana.
   
