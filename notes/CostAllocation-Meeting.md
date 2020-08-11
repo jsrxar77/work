@@ -11,6 +11,11 @@
   - La idea de la participación de @andres es ser fusible para con Rohit.
   - Se necesita armar el caso con la información de todo el equipo de OA.
   - No hay un rol que cumpla la función de PM en el proyecto Cost Allocation.
+  - Rohit puede dar un valor agregado bueno, ya que tiene un gran expertise técnico.
+  - Martin articuló bien la presión hacia el equipo pero no logró que avancen las cosas.
+  - OA upper management no logro ganar la confianza del cliente en muchos aspectos, se esta trabajando en eso. ( en cambio Annia si )
+  - Martin perdió credibilidad en los deliveries, no entrego cosas.
+  - Rohit no articula bien la presión con el equipo.
 
 ## Que no funcionó
 
@@ -36,21 +41,34 @@
   - Se le pidió a Rohit que cada mejora se trackee en confluence y se priorice, pero sin éxito se pide todo junto en el momento.
   - Rohit utiliza algunas meeting para conocimiento propio y no para el objetivo de la meeting.
     - Ej: se realizo una pre-planning de Sprint y en lugar seguir esa agenda de reunión se hablo gran parte de la reunión del release 3.
+  - Que no exista QA, fue por falta de presupuesto?
+  - El adelantar la fecha del release final impacto negativamente. Porque mas allá estar sobre-valuado, se siguen agregando cosas.
+  - El quitar recursos del equipo incluido el QA, impacto negativamente.
+  - Presión de Rohit, ordena pero impacta negativamente en el mood del equipo.
+  - Se hicieron releases que no están siendo utilizados en producción. Cada release por mas que sea importante quita tiempo y se debería tener en cuenta muy al detalle si es necesario o no para minimizar el overhead que implican estos releases.
+  - Rohit tiene buenas formas y modales pero siempre señalando las cosas que esta mal en lugar de encontrar soluciones constructivas. ( a veces se siente la necesidad de parar el carro )
+  - El ancho de banda que tenemos con Marilyn, Gonzalo y yo no nos da para poder involucrarnos para hacer un seguimiento de manejar las prioridades y poner y sacar cosas de las sprints. Por eso no es difícil manejar las prioridades de nuestro lado
 
 - **@gonza**
   - Rohit sabe que las cosas que le pide a Martin no las puede hacer y cae sobre los desarrolladores y eso hace retrasar las cosas acordadas para el Sprint.
   - Los tiempos de deployment son largos y se piden constantemente.
+  - Presión de Rohit constante, esta trabajando muchas horas. Se trabajo el domingo. Es presión de buenos modales.
+  - No hay molestia de que Rohit se meta en código o mire los PR. Es mas eso ayuda. El expertise técnico es bien recibido.
+  - La burocracia que hay con respecto a múltiples reuniones. **Se necesita tiempo para desarrollar**
+  - Se pierden días enteros para hacer deployments.
 
 - **@braulio**
-  - (TBD)
+  - Braulio no estaba en la dinámica de cost allocation, es decir los temas con Rohit no lo influyeron, pero sostiene que el proceso de desarrollo fue desordenado en donde para los items de frontend: el BA y QA era Martin. Al no existir una red de BA y QA, el producto entregado no fue de calidad y en lugar de cuestionar los roles faltantes se termina cuestionando decisiones técnicas. Cuando tal vez el problema es que no existieron todos los roles.
+  - Se puso una fecha de entrega y se comenzó a probar 2 semanas posteriores a la salida del Braulio del proyecto.
+  - Al no existir QA, en los issues encontrados no había descripciones precisas por lo tanto no se podían reproducir. Tomo mucho tiempo entender el error al no tener la información correcta. Eso impacto en que el cliente pensó que no se estaba a la altura y eso paso por el proceso desordenado.( Andres comenta que desde el lado de XPO, el problema lo ven en Martin, porque Martin no puede hacer todos los roles )
 
 ## Action items
 
-- Encontrar una persona que exprese a Rohit que el proceso no esta funcionando.
-- Encontrar un moderador para las reuniones, por ejemplo Terri (PM) y que se respete el scope de la reunión y el timebox. El moderador debe ser alguien externo que pueda frenar las necesidades del VP ( sin miedo a reprimendas ) y en caso que haya necesidades fuera del scope de la reunión, debe armar una nueva reunión.
+- Encontrar una persona que exprese a Rohit que el proceso no esta funcionando. En lo posible explicando que el esquema de presión tiene impacto negativo en los miembros del equipo, porque en el afán de entregar las cosas a tiempo se trabajan horas de mas y eso no se puede extender en el tiempo. Encontrar un equilibrio que articule el manejo de presión.
+- Encontrar un moderador o alguien que gestione el proyecto de forma integral para definir prioridades y ayude a respetar el scope del proyecto y reuniones (timebox). El moderador debe ser alguien externo que pueda frenar las necesidades del VP ( sin miedo a reprimendas ) y en caso que haya necesidades fuera del scope de la reunión, debe armar una nueva reunión.
 - Todas las tareas que se piden por mínima que sea debe trackearse en Jira. Sea: nueva user story, modificación de user story, nuevo modulo, modificación de modulo o **mejora de performance**.
 - No deben agregarse tareas fueras de las planning al Sprint.
 - Determinar Product Owner que priorice las tareas. Las tareas deben quedar priorizadas en Jira.
-- Si se agrega algo al release, se debe extender la fecha o quitar otra tarea.
-- **Falta de tester y el impacto en analistas y calidad del producto.**
-- (TBD)
+- Administrar releases, si se agrega algo al release, se debe extender la fecha o quitar otra tarea.
+- **Suplantar la falta de tester, mostrando como eso impacta en analistas y calidad del producto.**
+- Asegurar que los releases tanto de backend como frontend deben pasar por un periodo de testing: QA y UAT.
