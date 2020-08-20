@@ -44,6 +44,7 @@
   - El getCustomer iba a devolver cierta información pero luego de cambios de base de datos y anteayer se hicieron los cambios en base de datos y se terminaron.
   - Se hicieron correcciones en nombres de tablas.
   - Destacaron la UI y como mejoró.
+  - Se va a evaluar integrar la nueva version de angular.
 
 - @mauri
   - Se siguió trabajando en stories que no dependen del backend.
@@ -52,3 +53,33 @@
 
 - @jose
   - Esta utilizando librerias de boston. Habria que actualizar.
+
+- @juan
+  - Falta de definiciones en tareas, reuniones con Dan
+  - No tienen el entorno para probar.
+  - No se sabe a que rama ir de city operation.
+  - Tienen que definir en que momento van a ir a de development.
+  - **Propone a hablar con Magali Kane para ver cuando van a ir a development.**
+
+## Weekly Sync: 8/20/2020
+
+@xime, @jose, @raul, @ariel, @juan, @mauri, @juanc
+
+- @ariel
+  - En Handheld consultas a Dan sobre mapeos (dock operation). Ya esta a punto de terminarse la tarea.
+  - Juan Gastaldi y Ximena ayudaron a traccionar.
+  - No esta bloqueado, solo dudas simples.
+
+- @mauri, @jose
+  - Integrando el nuevo endpoint de customer, empezando con blocker como parte del desarrollo. Resolviendo conflictos.
+  - Annia, queda para avisar por la integración en la nueva version de angular.
+
+- @ale
+  - Se pudo hacer merge en A. Se pasaron historias a "Ready for BA Signoff".
+  - Los estados de tickets, cuando se complica el merge queda en development y no por ejemplo si esta en "Code Review". Annia propone un cambio en al retro.
+
+- @raul
+  - Termino el ticket que tenia asignado.
+  - Ximena tiene que ver el PR.
+  - Hoy esta a la espera de otro ticket.
+  
