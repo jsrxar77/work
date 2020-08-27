@@ -83,3 +83,22 @@
   - Ximena tiene que ver el PR.
   - Hoy esta a la espera de otro ticket.
   
+## Weekly Sync: 8/27/2020
+
+@xime, @jose, @raul, @ariel, @juan, @mauri, @juanc
+
+- @jose
+  - Errores en librería. Sin trabajo.
+  - Momento de hacer unit test.
+  
+- @ale
+  - update customer request
+
+- @raul
+  - termino el get customer, esperando testing. Ayudando a @mauri.
+  - Se volvió a versiones anteriores.
+
+- @juan
+  - No se puede hacer merge.
+  - No se puede avanzar, por temas de merge y sync.
+
